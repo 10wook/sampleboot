@@ -24,6 +24,6 @@ public class MainController {
 		logger.info("logger:MainController:{}", "/add 요청");	
 		return "hello";// jsp 정보
 	}
-	//깃허브용 주석이라고 생각하면 될듯
+	//깃허브용 주석이라고 생각하면 될듯 aadsfakl
 	
 }
